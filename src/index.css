@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box ;
+    color : #222
+}
+
+p {
+    color : #777
+}
+  
+body {
+    min-width: 320px;
+    min-height: 100vh;
+    background-color: #ddd;   
+}
+  
